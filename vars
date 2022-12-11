@@ -1,0 +1,8 @@
+set_var EASYRSA_REQ_COUNTRY    "ES"
+set_var EASYRSA_REQ_PROVINCE   "Cantabria"
+set_var EASYRSA_REQ_CITY       "Santander"
+set_var EASYRSA_REQ_ORG        "Altamira-SC"
+set_var EASYRSA_REQ_EMAIL      "altamira@res-es.ciber"
+set_var EASYRSA_REQ_OU         "Dep-Soporte"
+set_var EASYRSA_ALGO           "ec"
+set_var EASYRSA_DIGEST         "sha512"
