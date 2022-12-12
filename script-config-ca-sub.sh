@@ -28,7 +28,7 @@ do
            echo "set_var EASYRSA_ALGO   'ec'" >> vars
            echo "set_var EASYRSA_DIGEST         'sha512'" >> vars;;
         "Construir_SUB_CA")
-           echo "Construyendo la CA Intermedia"
+           echo "Se va a construir la CA Intermedia..."
            ./easyrsa build-ca nopass subca;;
         "Salir")
            echo "Saliendo..."
